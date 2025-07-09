@@ -6,7 +6,7 @@ use macroquad::rand::gen_range;
 // Configura a janela com anti‐aliasing (MSAA 4×)
 fn window_conf() -> Conf {
     Conf {
-        window_title: "Rosa Viva e Giratória".to_owned(),
+        window_title: "Uma Rosa para a minha Flor(a)".to_owned(),
         sample_count: 4,
         ..Default::default()
     }
